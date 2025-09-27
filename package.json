@@ -1,0 +1,45 @@
+{
+  "name": "idetree-app",
+  "version": "1.0.0",
+  "description": "idetree Fikir Yönetim Uygulaması - İnovatif fikirlerinizi organize edin",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.9.2",
+    "react-scripts": "5.0.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [
+    "react",
+    "fikir-yönetimi",
+    "idetree",
+    "productivity",
+    "idea-management"
+  ],
+  "author": "idetree Team",
+  "license": "MIT"
+}
